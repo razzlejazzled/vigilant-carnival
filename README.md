@@ -7,3 +7,8 @@ This app is built in Python and comes from a youtube tutorial by the channel Dev
 
 ## Rationale
 Python is a language that I have not used before, and that I want to start learning, or at least familiarizing myself with. Thus, I have used the aforementioned tutorial to build this app. 
+
+## Using the App
+The app can be started via two methods. If the user has python installed, they can enter the command 'python app.py' in their terminal. 
+
+This app can also be run directly from file explorer (or the equivalent GUI on your os).
